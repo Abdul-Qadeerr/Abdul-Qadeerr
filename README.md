@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 
-Abdul Qadeer - ML Engineer and Digital Craftsman (Developer / Programmer) building scalable and intelligent AI solutions.
+Abdul Qadeer - ML Engineer - building scalable and intelligent AI solutions.
 <br /> 
 
 <!--Start Intro-->               
