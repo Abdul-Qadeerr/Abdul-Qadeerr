@@ -7,7 +7,8 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Abdul Qadeer - Senior ML Engineer and Digital Craftsman (Developer / Programmer) building scalable and intelligent AI solutions.
+
+## Abdul Qadeer - Senior ML Engineer and Digital Craftsman (Developer / Programmer) building scalable and intelligent AI solutions.
 <br /> 
 
 <!--Start Intro-->               
