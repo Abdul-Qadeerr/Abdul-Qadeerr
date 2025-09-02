@@ -7,16 +7,12 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Abdul Qadeer! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Abdul Qadeer - Senior ML Engineer and Digital Craftsman (Developer / Programmer) building scalable and intelligent AI solutions.
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">ML Engineer exploring Machine Learning, Deep Learning, Advanced NLP (Transformers, LLMs, Prompt Engineering, Generative AI), and MLOps (Model Deployment, TensorFlow Serving, Docker, Kubernetes).</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://aqadeer.vercel.app/) for more details about me.
 <!--End Intro-->
 
@@ -26,7 +22,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tech Stack & Latest Blogs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -36,9 +32,9 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+ <li>Deepening expertise in Machine Learning, Deep Learning, and Advanced NLP (Transformers, LLMs, Generative AI).</li>
+<li>Exploring MLOps practices including model deployment, Docker, Kubernetes, and TensorFlow Serving.</li>
+<li>Enhancing skills in cloud computing with AWS and Azure for scalable AI solutions.</li>
 </ul>
   
 
@@ -52,7 +48,7 @@
 
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Qadeerr&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
@@ -60,61 +56,7 @@
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
 
 
 <!--STARTS_HERE_QUOTE_CARD-->
