@@ -12,7 +12,7 @@ Abdul Qadeer - ML Engineer - building scalable and intelligent AI solutions.
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">ML Engineer exploring Machine Learning, Deep Learning, Advanced NLP (Transformers, LLMs, Prompt Engineering, Generative AI), and MLOps (Model Deployment, TensorFlow Serving, Docker, Kubernetes).</p>
+<p align="left">Exploring Machine Learning, Deep Learning, Advanced NLP (Transformers, LLMs, Prompt Engineering, Generative AI), and MLOps (Model Deployment, TensorFlow Serving, Docker, Kubernetes).</p>
 
 - 💻 Visit my [Portfolio](https://aqadeer.vercel.app/) for more details about me.
 <!--End Intro-->
