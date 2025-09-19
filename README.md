@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner Image](./banner.png)
+![Banner Image](./banner.jfif)
 
 <!--Night Owl image-->
 <div>
