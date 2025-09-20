@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠 Technical Stack
+##Technical Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -28,14 +28,14 @@
   <img align="right" width="40%" src="./Skills_Animation_White.gif" alt="Skills Animation">
 </picture>
 
-**Machine Learning & NLP**
+Machine Learning & NLP
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
-**MLOps & Cloud**
+MLOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -59,20 +59,20 @@
 
 ## Featured Projects
 
-### ** [Advanced RAG Framework](https://github.com/Abdul-Qadeerr/enterprise-rag)**
+###  [Advanced RAG Framework](https://github.com/Abdul-Qadeerr/enterprise-rag)**
 Production-ready retrieval-augmented generation system with custom embedding pipelines and optimized inference.
 
-### ** [ML Model Serving Platform](https://github.com/Abdul-Qadeerr/ml-serving-platform)**
+###  [ML Model Serving Platform](https://github.com/Abdul-Qadeerr/ml-serving-platform)**
 Kubernetes-native platform for deploying, monitoring, and scaling machine learning models with CI/CD integration.
 
-### ** [Transformer Fine-Tuning Library](https://github.com/Abdul-Qadeerr/transformer-finetune)**
+###  [Transformer Fine-Tuning Library](https://github.com/Abdul-Qadeerr/transformer-finetune)**
 Efficient fine-tuning library for transformer models with support for multiple tasks and hardware optimization.
 
-**[View All Repositories →](https://github.com/Abdul-Qadeerr?tab=repositories)**
+[View All Repositories →](https://github.com/Abdul-Qadeerr?tab=repositories)
 
 ---
 
-## Activity Graph
+Activity Graph
 
 <div align="center">
   
@@ -82,7 +82,7 @@ Efficient fine-tuning library for transformer models with support for multiple t
 
 ---
 
-## Daily Inspiration
+Daily Inspiration
 
 <!--QUOTE_CARD-->
 <p align="center">
