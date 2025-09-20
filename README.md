@@ -1,156 +1,126 @@
-<!--Banner-->
-![Banner Image](./banner.jpg)
+<!-- Banner -->
+![Banner](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&h=500&q=80)
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<!-- Night Owl image -->
+<div align="right">
+  <img width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Tech Owl">
 </div>
 
-<!--Header Name-->
+<!-- Header -->
+# Abdul Qadeer 
+### 🤖 ML Engineer | Building Scalable & Intelligent AI Solutions
+<br>
 
-Abdul Qadeer - ML Engineer - building scalable and intelligent AI solutions.
-<br /> 
+<!-- Intro -->
+<p align="left">Passionate about transforming data into intelligent solutions. Exploring the frontiers of Machine Learning, Deep Learning, Advanced NLP (Transformers, LLMs, Generative AI), and MLOps to create impactful AI applications.</p>
 
-<!--Start Intro-->               
-<p align="left">Exploring Machine Learning, Deep Learning, Advanced NLP (Transformers, LLMs, Prompt Engineering, Generative AI), and MLOps (Model Deployment, TensorFlow Serving, Docker, Kubernetes).</p>
-
-- 💻 Visit my [Portfolio](https://aqadeer.vercel.app/) for more details about me.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
+- 🌐 **Portfolio:** [aqadeer.vercel.app](https://aqadeer.vercel.app/)
+- 📝 **Blog:** [Read my latest articles](#) *(coming soon)*
+- 🔭 **Currently working on:** Advanced NLP applications with transformer architectures
 
 ---
 
+## 🛠️ Tech Stack & Expertise
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tech Stack & Latest Blogs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
- <li>Deepening expertise in Machine Learning, Deep Learning, and Advanced NLP (Transformers, LLMs, Generative AI).</li>
-<li>Exploring MLOps practices including model deployment, Docker, Kubernetes, and TensorFlow Serving.</li>
-<li>Enhancing skills in cloud computing with AWS and Azure for scalable AI solutions.</li>
-</ul>
-  
-
-<br />
-<br />
-<br />
-<br />
-
-
-
-
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Qadeerr&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+  
+### **Machine Learning & Data Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **MLOps & Deployment**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### **NLP & AI Technologies**
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
+## 📈 GitHub Analytics
 
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=The%20greatest%20weariness%20comes%20from%20work%20not%20done.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="qadeermalik3005@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="qadeermalik3005@gmail.com" style="margin-bottom: 5px;" />
-</a>
+![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Qadeerr&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Qadeerr&layout=compact&theme=radical&hide_border=true)
 
-<a href="https://x.com/malikqadeerr" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="malikqadeer" style="margin-bottom: 5px;" />
-</a>
+</div>
 
-<a href="https://www.instagram.com/imalikqadeer" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="imalikqadeer" style="margin-bottom: 5px;" />
-</a>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Qadeerr&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=false" width="90%">
+</div>
 
-<a href="https://www.githubcom/Abdul-Qadeerr" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Abdul-Qadeerr" style="margin-bottom: 5px;" />
-</a>
+---
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/malik-qadeer/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+## 🌟 Featured Projects
 
+### 🤖 [Advanced NLP Text Generator](https://github.com/Abdul-Qadeerr/nlp-text-generator)
+> Transformer-based text generation system with custom fine-tuning capabilities
 
+### 🚀 [ML Model Serving Platform](https://github.com/Abdul-Qadeerr/ml-serving-platform)
+> Kubernetes-based platform for deploying and scaling machine learning models
 
-<!--Footer--> 
+### 💬 [AI Chatbot Framework](https://github.com/Abdul-Qadeerr/ai-chatbot-framework)
+> Modular chatbot framework supporting multiple NLP models and integration platforms
+
+**[View All Projects](https://github.com/Abdul-Qadeerr?tab=repositories)**
+
+---
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Fine-Tuning Transformers for Domain-Specific Tasks](https://dev.to/abdulqadeer/fine-tuning-transformers-1o2p)
+- [Building Scalable ML Pipelines with Kubernetes](https://dev.to/abdulqadeer/ml-pipelines-kubernetes-3a9k)
+- [Prompt Engineering Best Practices for LLMs](https://dev.to/abdulqadeer/prompt-engineering-best-practices-5fnl)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 Current Focus
+
+- 🔍 **Researching:** Efficient fine-tuning techniques for large language models
+- 🛠️ **Building:** MLOps platform for automated model training and deployment
+- 📖 **Learning:** Advanced Kubernetes patterns for machine learning workloads
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qadeermalik3005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-qadeer/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/malikqadeerr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Qadeerr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imalikqadeer)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitors](https://komarev.com/ghpvc/?username=Abdul-Qadeerr&color=blueviolet&style=flat-square)
+
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
