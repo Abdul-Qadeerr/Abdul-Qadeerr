@@ -1,4 +1,4 @@
-# Abdul Qadeer | ML Engineer
+# ML Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6A7EFC&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Generative+AI+Engineer;MLOps+Practitioner;AI+Solutions+Architect" alt="Typing Animation" />
