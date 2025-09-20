@@ -11,7 +11,7 @@
 
 ##
 
-**Transforming data into intelligent, scalable AI solutions** with expertise in cutting-edge machine learning, deep learning, and production-grade MLOps systems.
+Transforming data into intelligent, scalable AI solutions** with expertise in cutting-edge machine learning, deep learning, and production-grade MLOps systems.
 
 -  **Building:** Advanced RAG systems & LLM-powered applications
 -  **Learning:** Optimized transformer inference & distributed training
@@ -59,13 +59,13 @@ MLOps & Cloud
 
 ## Featured Projects
 
-###  [Advanced RAG Framework](https://github.com/Abdul-Qadeerr/enterprise-rag)**
+###  [Advanced RAG Framework](https://github.com/Abdul-Qadeerr/enterprise-rag)
 Production-ready retrieval-augmented generation system with custom embedding pipelines and optimized inference.
 
-###  [ML Model Serving Platform](https://github.com/Abdul-Qadeerr/ml-serving-platform)**
+###  [ML Model Serving Platform](https://github.com/Abdul-Qadeerr/ml-serving-platform)
 Kubernetes-native platform for deploying, monitoring, and scaling machine learning models with CI/CD integration.
 
-###  [Transformer Fine-Tuning Library](https://github.com/Abdul-Qadeerr/transformer-finetune)**
+###  [Transformer Fine-Tuning Library](https://github.com/Abdul-Qadeerr/transformer-finetune)
 Efficient fine-tuning library for transformer models with support for multiple tasks and hardware optimization.
 
 [View All Repositories →](https://github.com/Abdul-Qadeerr?tab=repositories)
