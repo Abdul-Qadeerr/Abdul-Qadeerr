@@ -1,121 +1,112 @@
 # Abdul Qadeer | ML Engineer
- 
-<div align="center">
 
-![Banner](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80)
-
-</div>
-
-##  About Me
-
-I architect and deploy scalable machine learning systems with expertise in deep learning, natural language processing, and cloud infrastructure. Passionate about transforming theoretical models into production-ready AI solutions that deliver measurable business impact.
-
-**Core Competencies:** Machine Learning • Deep Learning • NLP • MLOps • Cloud Architecture • Distributed Systems
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6A7EFC&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Generative+AI+Specialist;MLOps+Practitioner;AI+Solutions+Architect" alt="Typing Animation" />
+</p>
 
 ---
 
-##  Technical Expertise
+##
 
-### **Machine Learning & AI**
+Transforming data into intelligent, scalable AI solutions with expertise in cutting-edge machine learning, deep learning, and production-grade MLOps systems.
+
+-  **Building:** Advanced RAG systems & LLM-powered applications
+-  **Learning:** Optimized transformer inference & distributed training
+-  **Reach me:** qadeermalik3005@gmail.com
+-  **Portfolio:** [aqadeer.vercel.app](https://aqadeer.vercel.app/)
+
+---
+
+Technical Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" width="40%" src="./Skills_Animation_White.gif" alt="Skills Animation">
+</picture>
+
+Machine Learning & NLP
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+MLOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+---
+
+## GitHub Analytics
+
 <div align="center">
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Qadeerr&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Qadeerr&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" />
 
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Abdul-Qadeerr&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=737373&ring=6A7EFC&fire=6A7EFC&currStreakNum=FFFFFF&sideNums=6A7EFC&currStreakLabel=6A7EFC&sideLabels=FFFFFF)
+  
 </div>
 
-### **MLOps & Cloud Infrastructure**
+---
+
+## Featured Projects
+
+###  [Advanced RAG Framework](https://github.com/Abdul-Qadeerr/enterprise-rag)
+Production-ready retrieval-augmented generation system with custom embedding pipelines and optimized inference.
+
+###  [ML Model Serving Platform](https://github.com/Abdul-Qadeerr/ml-serving-platform)
+Kubernetes-native platform for deploying, monitoring, and scaling machine learning models with CI/CD integration.
+
+###  [Transformer Fine-Tuning Library](https://github.com/Abdul-Qadeerr/transformer-finetune)
+Efficient fine-tuning library for transformer models with support for multiple tasks and hardware optimization.
+
+[View All Repositories →](https://github.com/Abdul-Qadeerr?tab=repositories)
+
+---
+
+Activity Graph
+
 <div align="center">
   
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-</div>
-
-### **Data & Databases**
-<div align="center">
-  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Qadeerr&bg_color=0d1117&color=6a7efc&line=6a7efc&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-##  GitHub Analytics
+Daily Inspiration
 
-<div align="center">
-
-| | |
-| :---: | :---: |
-| **Profile Stats** | **Language Distribution** |
-| <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Qadeerr&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Qadeerr&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="400" /> |
-| **Contribution Streak** | **Activity Graph** |
-| <img src="https://streak-stats.demolab.com?user=Abdul-Qadeerr&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Qadeerr&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" width="400" /> |
-
-</div>
+<!--QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=The%20greatest%20weariness%20comes%20from%20work%20not%20done.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
 
 ---
 
-##  Featured Projects
-
-### **Enterprise RAG System**
-Advanced retrieval-augmented generation framework for enterprise knowledge management with custom embedding pipelines and optimized inference.
-
-**Tech Stack:** Python • Transformers • FAISS • FastAPI • Kubernetes
-
-### **ML Model Serving Platform**
-Kubernetes-native platform for deploying, monitoring, and scaling machine learning models with automated CI/CD pipelines.
-
-**Tech Stack:** Kubernetes • Docker • Prometheus • Grafana • Terraform
-
-### **Transformer Optimization Library**
-High-performance library for efficient fine-tuning and deployment of transformer models across diverse hardware configurations.
-
-**Tech Stack:** PyTorch • ONNX • TensorRT • CUDA
-
----
-
-##  Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
----
-
-##  Current Focus
-
-- **Research:** Efficient fine-tuning techniques for large language models
-- **Development:** Scalable MLOps infrastructure for enterprise AI applications
-- **Learning:** Advanced optimization techniques for transformer inference
-
----
-
-##  Professional Connect
+## Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qadeermalik3005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-qadeer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aqadeer.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Qadeerr)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/malikqadeerr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Qadeerr)
 
 </div>
 
 ---
 
 <div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=Abdul-Qadeerr&color=blue&style=flat-square)
-
-*"Engineering intelligent systems that learn, adapt, and deliver value."*
-
+  
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Qadeerr&color=6a7efc&style=flat-square" alt="Profile views" />
+  
 </div>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
+</p>
