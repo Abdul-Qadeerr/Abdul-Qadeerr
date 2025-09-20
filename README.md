@@ -1,4 +1,7 @@
-# Abdul Qadeer | ML Engineer & AI Engineer
+<!-- Banner -->
+![Banner](./banner.jpg)
+
+# Abdul Qadeer | ML Engineer & AI Specialist
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6A7EFC&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Generative+AI+Specialist;MLOps+Practitioner;AI+Solutions+Architect" alt="Typing Animation" />
@@ -18,6 +21,12 @@
 ---
 
 ## 🛠 Technical Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" width="40%" src="./Skills_Animation_White.gif" alt="Skills Animation">
+</picture>
 
 **Machine Learning & NLP**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -73,14 +82,24 @@ Efficient fine-tuning library for transformer models with support for multiple t
 
 ---
 
+## 🌟 Daily Inspiration
+
+<!--QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=The%20greatest%20weariness%20comes%20from%20work%20not%20done.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qadeermalik3005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-qadeer/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/malikqadeerr)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Qadeerr)
+[![Email](./gmail.png)](mailto:qadeermalik3005@gmail.com)
+[![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/malik-qadeer/)
+[![Twitter](./twitter.png)](https://x.com/malikqadeerr)
+[![GitHub](./github.png)](https://github.com/Abdul-Qadeerr)
+[![Instagram](./instagram.png)](https://www.instagram.com/imalikqadeer)
 
 </div>
 
