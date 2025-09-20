@@ -20,7 +20,7 @@ Transforming data into intelligent, scalable AI solutions** with expertise in cu
 
 ---
 
-##Technical Stack
+Technical Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
