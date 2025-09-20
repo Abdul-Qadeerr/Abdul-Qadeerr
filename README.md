@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Banner](./banner.jpg)
 
-# Abdul Qadeer | ML Engineer & AI Specialist
+# Abdul Qadeer | ML Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6A7EFC&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Generative+AI+Specialist;MLOps+Practitioner;AI+Solutions+Architect" alt="Typing Animation" />
@@ -9,14 +9,14 @@
 
 ---
 
-## 👨‍💻 About Me
+##
 
 **Transforming data into intelligent, scalable AI solutions** with expertise in cutting-edge machine learning, deep learning, and production-grade MLOps systems.
 
-- 🔭 **Building:** Advanced RAG systems & LLM-powered applications
-- 🌱 **Learning:** Optimized transformer inference & distributed training
-- 📫 **Reach me:** qadeermalik3005@gmail.com
-- 🌐 **Portfolio:** [aqadeer.vercel.app](https://aqadeer.vercel.app/)
+-  **Building:** Advanced RAG systems & LLM-powered applications
+-  **Learning:** Optimized transformer inference & distributed training
+-  **Reach me:** qadeermalik3005@gmail.com
+-  **Portfolio:** [aqadeer.vercel.app](https://aqadeer.vercel.app/)
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -57,22 +57,22 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### **🤖 [Advanced RAG Framework](https://github.com/Abdul-Qadeerr/enterprise-rag)**
+### ** [Advanced RAG Framework](https://github.com/Abdul-Qadeerr/enterprise-rag)**
 Production-ready retrieval-augmented generation system with custom embedding pipelines and optimized inference.
 
-### **⚙️ [ML Model Serving Platform](https://github.com/Abdul-Qadeerr/ml-serving-platform)**
+### ** [ML Model Serving Platform](https://github.com/Abdul-Qadeerr/ml-serving-platform)**
 Kubernetes-native platform for deploying, monitoring, and scaling machine learning models with CI/CD integration.
 
-### **🧠 [Transformer Fine-Tuning Library](https://github.com/Abdul-Qadeerr/transformer-finetune)**
+### ** [Transformer Fine-Tuning Library](https://github.com/Abdul-Qadeerr/transformer-finetune)**
 Efficient fine-tuning library for transformer models with support for multiple tasks and hardware optimization.
 
 **[View All Repositories →](https://github.com/Abdul-Qadeerr?tab=repositories)**
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   
@@ -82,7 +82,7 @@ Efficient fine-tuning library for transformer models with support for multiple t
 
 ---
 
-## 🌟 Daily Inspiration
+## Daily Inspiration
 
 <!--QUOTE_CARD-->
 <p align="center">
@@ -91,15 +91,14 @@ Efficient fine-tuning library for transformer models with support for multiple t
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-[![Email](./gmail.png)](mailto:qadeermalik3005@gmail.com)
-[![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/malik-qadeer/)
-[![Twitter](./twitter.png)](https://x.com/malikqadeerr)
-[![GitHub](./github.png)](https://github.com/Abdul-Qadeerr)
-[![Instagram](./instagram.png)](https://www.instagram.com/imalikqadeer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qadeermalik3005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-qadeer/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/malikqadeerr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Qadeerr)
 
 </div>
 
