@@ -11,7 +11,7 @@
 
 ##
 
-Transforming data into intelligent, scalable AI solutions** with expertise in cutting-edge machine learning, deep learning, and production-grade MLOps systems.
+Transforming data into intelligent, scalable AI solutions with expertise in cutting-edge machine learning, deep learning, and production-grade MLOps systems.
 
 -  **Building:** Advanced RAG systems & LLM-powered applications
 -  **Learning:** Optimized transformer inference & distributed training
