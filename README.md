@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./banner.jpg)
+
 
 # Abdul Qadeer | ML Engineer
 
