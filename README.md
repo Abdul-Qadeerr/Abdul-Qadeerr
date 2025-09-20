@@ -1,4 +1,4 @@
-# Abdul Qadeer | Machine Learning Engineer
+# Abdul Qadeer | ML Engineer
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-## 📍 About Me
+##  About Me
 
 I architect and deploy scalable machine learning systems with expertise in deep learning, natural language processing, and cloud infrastructure. Passionate about transforming theoretical models into production-ready AI solutions that deliver measurable business impact.
 
@@ -14,7 +14,7 @@ I architect and deploy scalable machine learning systems with expertise in deep 
 
 ---
 
-## 🛠 Technical Expertise
+##  Technical Expertise
 
 ### **Machine Learning & AI**
 <div align="center">
@@ -50,7 +50,7 @@ I architect and deploy scalable machine learning systems with expertise in deep 
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I architect and deploy scalable machine learning systems with expertise in deep 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### **Enterprise RAG System**
 Advanced retrieval-augmented generation framework for enterprise knowledge management with custom embedding pipelines and optimized inference.
@@ -84,14 +84,14 @@ High-performance library for efficient fine-tuning and deployment of transformer
 
 ---
 
-## 📈 Recent Activity
+##  Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - **Research:** Efficient fine-tuning techniques for large language models
 - **Development:** Scalable MLOps infrastructure for enterprise AI applications
@@ -99,7 +99,7 @@ High-performance library for efficient fine-tuning and deployment of transformer
 
 ---
 
-## 📫 Professional Connect
+##  Professional Connect
 
 <div align="center">
 
