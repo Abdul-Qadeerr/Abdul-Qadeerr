@@ -1,68 +1,28 @@
-Machine Learning Engineer
+ML Engineer
+Machine Learning Engineer specializing in production AI systems and MLOps.
 
-Summary
-Machine Learning Engineer with expertise in building end-to-end AI solutions, from research to production deployment. Focused on scalable machine learning systems, LLM applications, and robust MLOps pipelines.
+Tech Stack
+ML: Python, TensorFlow, PyTorch, Hugging Face
 
-Core Competencies:
+MLOps: Docker, Kubernetes, AWS, FastAPI
 
-Machine Learning & Deep Learning
+Data: SQL, Pandas, Spark
 
-LLM Applications & RAG Systems
+Projects
+Enterprise RAG System - Production-ready LLM framework
 
-MLOps & Cloud Infrastructure
+ML Serving Platform - Kubernetes-based model deployment
 
-Model Deployment & Scaling
+Transformer Library - Efficient model fine-tuning
 
-Technical Skills
-Programming & ML Frameworks
+Stats
+https://github-readme-stats.vercel.app/api?username=Abdul-Qadeerr&show_icons=true&theme=dark&hide_border=true
 
-Python, TensorFlow, PyTorch, Scikit-learn
-
-Hugging Face, OpenAI API, LangChain
-
-Pandas, NumPy, SQL
-
-MLOps & Infrastructure
-
-Docker, Kubernetes, AWS, Azure
-
-FastAPI, MLflow, Kubeflow
-
-CI/CD, Monitoring, Logging
-
-Data Engineering
-
-Data Pipelines, Feature Stores
-
-SQL/NoSQL Databases
-
-Apache Spark, Airflow
-
-Featured Projects
-Enterprise RAG System
-Production-ready retrieval-augmented generation framework with custom embedding pipelines and optimized inference.
-
-ML Model Serving Platform
-Kubernetes-native platform for deploying and monitoring machine learning models at scale.
-
-Transformer Fine-tuning Library
-Efficient fine-tuning framework for transformer models with multi-task support.
-
-GitHub Statistics
-<div align="center">
-Language	Activity	Streak
-https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Qadeerr&layout=compact&theme=dark&hide_border=true	https://github-readme-stats.vercel.app/api?username=Abdul-Qadeerr&show_icons=true&theme=dark&hide_border=true&count_private=true	https://streak-stats.demolab.com?user=Abdul-Qadeerr&theme=dark&hide_border=true
-</div>
-Contact Information
+Contact
 Email: qadeermalik3005@gmail.com
 
 Portfolio: aqadeer.vercel.app
 
 LinkedIn: malik-qadeer
 
-GitHub: Abdul-Qadeerr
-
-<div align="center">
-"Engineering scalable AI solutions for real-world impact"
-
-</div>
+Building scalable AI solutions
