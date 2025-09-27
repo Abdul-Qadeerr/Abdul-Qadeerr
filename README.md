@@ -1,52 +1,68 @@
-package main
+Machine Learning Engineer
 
-import (
-    "encoding/json"
-    "fmt"
-    "log"
-)
+Summary
+Machine Learning Engineer with expertise in building end-to-end AI solutions, from research to production deployment. Focused on scalable machine learning systems, LLM applications, and robust MLOps pipelines.
 
-type User struct {
-    Username string `json:"username"`
-    Email    string `json:"email"`
-    Age      int    `json:"age"`
-}
+Core Competencies:
 
-// Custom JSON validation
-func (u *User) Validate() error {
-    if u.Username == "" {
-        return fmt.Errorf("username is required")
-    }
-    if u.Age < 0 || u.Age > 150 {
-        return fmt.Errorf("invalid age: %d", u.Age)
-    }
-    return nil
-}
+Machine Learning & Deep Learning
 
-func main() {
-    // Valid JSON
-    validJSON := `{"username":"john_doe","email":"john@example.com","age":30}`
-    
-    var user User
-    if err := json.Unmarshal([]byte(validJSON), &user); err != nil {
-        log.Fatal("JSON parse error:", err)
-    }
-    
-    if err := user.Validate(); err != nil {
-        log.Fatal("Validation error:", err)
-    }
-    
-    fmt.Printf("Valid user: %+v\n", user)
-    
-    // Invalid JSON
-    invalidJSON := `{"username":"","email":"invalid","age":200}`
-    
-    var invalidUser User
-    if err := json.Unmarshal([]byte(invalidJSON), &invalidUser); err != nil {
-        log.Fatal("JSON parse error:", err)
-    }
-    
-    if err := invalidUser.Validate(); err != nil {
-        fmt.Println("Caught validation error:", err)
-    }
-}
+LLM Applications & RAG Systems
+
+MLOps & Cloud Infrastructure
+
+Model Deployment & Scaling
+
+Technical Skills
+Programming & ML Frameworks
+
+Python, TensorFlow, PyTorch, Scikit-learn
+
+Hugging Face, OpenAI API, LangChain
+
+Pandas, NumPy, SQL
+
+MLOps & Infrastructure
+
+Docker, Kubernetes, AWS, Azure
+
+FastAPI, MLflow, Kubeflow
+
+CI/CD, Monitoring, Logging
+
+Data Engineering
+
+Data Pipelines, Feature Stores
+
+SQL/NoSQL Databases
+
+Apache Spark, Airflow
+
+Featured Projects
+Enterprise RAG System
+Production-ready retrieval-augmented generation framework with custom embedding pipelines and optimized inference.
+
+ML Model Serving Platform
+Kubernetes-native platform for deploying and monitoring machine learning models at scale.
+
+Transformer Fine-tuning Library
+Efficient fine-tuning framework for transformer models with multi-task support.
+
+GitHub Statistics
+<div align="center">
+Language	Activity	Streak
+https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Qadeerr&layout=compact&theme=dark&hide_border=true	https://github-readme-stats.vercel.app/api?username=Abdul-Qadeerr&show_icons=true&theme=dark&hide_border=true&count_private=true	https://streak-stats.demolab.com?user=Abdul-Qadeerr&theme=dark&hide_border=true
+</div>
+Contact Information
+Email: qadeermalik3005@gmail.com
+
+Portfolio: aqadeer.vercel.app
+
+LinkedIn: malik-qadeer
+
+GitHub: Abdul-Qadeerr
+
+<div align="center">
+"Engineering scalable AI solutions for real-world impact"
+
+</div>
