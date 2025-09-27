@@ -3,9 +3,9 @@
 
 
 
-Contact
-Email: qadeermalik3005@gmail.com
-Portfolio: aqadeer.vercel.app
-LinkedIn: malik-qadeer
+# Contact
+- Email: qadeermalik3005@gmail.com
+- Portfolio: aqadeer.vercel.app
+- LinkedIn: malik-qadeer
 
 
