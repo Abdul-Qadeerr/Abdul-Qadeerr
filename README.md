@@ -4,8 +4,8 @@
 
 
 
-- Email: qadeermalik3005@gmail.com
-- Portfolio: [aqadeer.vercel.app](https://aqadeer.vercel.app/)
+- Email: qadeersys@gmail.com
+- Portfolio: https://abdul-qadeerr.github.io/folio
 - LinkedIn: www.linkedin.com/in/aqadeerr
 
 
