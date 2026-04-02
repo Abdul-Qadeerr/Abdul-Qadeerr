@@ -4,7 +4,7 @@
 
 
 
-- Email: qadeersys@gmail.com
+- Email: qadeermalik3005@gmail.com
 - Portfolio: https://abdul-qadeerr.github.io
 - LinkedIn: www.linkedin.com/in/aqadeerr
 
