@@ -37,11 +37,6 @@ Check out my repositories below to see what I'm working on!
 
 ---
 
-## Featured Projects
-
-- **ML Project 1** - Description here
-- **ML Project 2** - Description here  
-- **ML Project 3** - Description here
 
 🔎 View all my projects: https://github.com/abdul-qadeerr?tab=repositories
 
