@@ -20,7 +20,7 @@
   <br />
   🧑‍💼 I'm currently working as a Junior ML Engineer, focusing on model deployment and optimization.
   <br />
-  🌱 I’m learning about MLOps, Deep Learning, and Cloud Computing.
+  🌱 I'm learning about MLOps, Deep Learning, and Cloud Computing.
   <br />
 </p>
 
@@ -35,145 +35,83 @@
 </div>
 
 <hr />
+
 <!-- skills -->
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-      <!-- first row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,flask,git,docker,aws&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,flask,git,docker,aws&theme=light" />
-          <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,flask,git,docker,aws&theme=light" alt="skills - 1" />
-        </picture>
-          <br />
-          <!-- second row -->
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,gcp,azure,linux,bash,githubactions,streamlit&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,gcp,azure,linux,bash,githubactions,streamlit&theme=light" />
-            <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,gcp,azure,linux,bash,githubactions,streamlit&theme=light" alt="skills - 2" />
-        </picture>
+<h2 align="center">🔥 Skills 🔥</h2>
 
-  </a>
-</p>
 <br />
 
-<!-- deployment & monitoring -->
-<h3 align="center">MLOps & Deployment</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=grafana,prometheus,jenkins,kubernetes,terraform,anaconda,fastapi&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=grafana,prometheus,jenkins,kubernetes,terraform,anaconda,fastapi&theme=light' />
-          <img src='https://skillicons.dev/icons?i=grafana,prometheus,jenkins,kubernetes,terraform,anaconda,fastapi' alt="mlops tools" />
-        </picture>
-  </a>
+  <strong>Programming Languages:</strong> Python, SQL
+  <br />
+  <br />
+  <strong>Machine Learning & AI:</strong> TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy
+  <br />
+  <br />
+  <strong>Backend & APIs:</strong> FastAPI, Flask
+  <br />
+  <br />
+  <strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Redis
+  <br />
+  <br />
+  <strong>Cloud & DevOps:</strong> AWS, GCP, Azure, Docker, Kubernetes, Jenkins, GitHub Actions
+  <br />
+  <br />
+  <strong>MLOps & Monitoring:</strong> Grafana, Prometheus, Terraform
+  <br />
+  <br />
+  <strong>Tools & Others:</strong> Git, Linux, Bash, Streamlit, Anaconda
 </p>
+
 <hr />
 
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdul-qadeerr/abdul-qadeerr/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/abdul-qadeerr/abdul-qadeerr/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/abdul-qadeerr/abdul-qadeerr/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
-
-  <hr />
-
 <!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
 <br />
-<p align=center>
-<!-- first row -->
-  <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=abdul-qadeerr&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=abdul-qadeerr&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=abdul-qadeerr&theme=default&border=61dafb" alt="Abdul Qadeer's streak stats" />
-      </picture>
-    </a>
-  <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdul-qadeerr&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=abdul-qadeerr&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=abdul-qadeerr&show_icons=true&theme=default&border_color=61dafb" alt="Abdul Qadeer's github stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- spaces -->
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdul-qadeerr&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdul-qadeerr&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-qadeerr&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Abdul Qadeer's contribution graph" />
-    </picture>
-  </a>
+
+<p align="center">
+  <strong>📊 Profile Stats:</strong> Check out my GitHub for repositories and contributions!
+  <br />
+  <br />
+  <strong>🔥 Current Focus:</strong> Building and deploying ML models, learning MLOps best practices.
+  <br />
+  <br />
+  <strong>📈 Goals for 2026:</strong> Contribute to open-source ML projects and deepen my knowledge of deep learning architectures.
 </p>
 
 <hr />
 
 <!-- repositories -->
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
+
 <br />
-<!-- first row -->
-<div width="100%" align="center">
-  <!-- repo 1 - replace with your own -->
-  <a align="right" href="https://github.com/abdul-qadeerr/your-ml-project-1" title="ML Project 1">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-1&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-1&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-1&theme=graywhite&border_radius=10.0" alt="ML Project 1" />
-    </picture>
-  </a>
 
-  <!-- repo 2 - replace with your own -->
-  <a align="left" href="https://github.com/abdul-qadeerr/your-ml-project-2" title="ML Project 2">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-2&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-2&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-2&theme=graywhite&border_radius=10" alt="ML Project 2" />
-    </picture>
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<!-- second row -->
-<div width="100%" align="center">
-  <!-- repo 3 - replace with your own -->
-  <a align="left" href="https://github.com/abdul-qadeerr/your-ml-project-3" title="ML Project 3">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-3&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-3&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-3&theme=graywhite&border_radius=10" alt="ML Project 3" />
-    </picture>
-  </a>
+<p align="center">
+  🔹 <strong>ML Project 1</strong> - Description of your machine learning project goes here.
+  <br />
+  <br />
+  🔹 <strong>ML Project 2</strong> - Description of your second ML project goes here.
+  <br />
+  <br />
+  🔹 <strong>ML Project 3</strong> - Description of your third project (maybe an API or deployment project).
+  <br />
+  <br />
+  🔹 <strong>ML Project 4</strong> - Description of another cool thing you built.
+</p>
 
-  <!-- repo 4 - replace with your own -->
-  <a align="right" href="https://github.com/abdul-qadeerr/your-ml-project-4" title="ML Project 4">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-4&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-4&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-qadeerr&repo=your-ml-project-4&theme=graywhite&border_radius=10" alt="ML Project 4" />
-    </picture>
-  </a>
-</div>
-
-<!-- spaces -->
-
-<br /><br /><br /><br /><br /><br />
+<br />
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/abdul-qadeerr?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/abdul-qadeerr?tab=repositories" title="Show Repositories">🔎 Show More on GitHub 🔍</a>
 </h4>
+
+<hr />
+
+<!-- footer -->
+<p align="center">
+  Thanks for visiting! 😊
+  <br />
+  Open to collaborations and interesting projects.
+</p>
