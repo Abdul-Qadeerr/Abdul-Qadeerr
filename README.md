@@ -1,14 +1,9 @@
 # Hi There! 👋 I'm Abdul Qadeer
 
-**Junior ML Engineer** from Pakistan 🇵🇰
+**Junior ML Engineer**
 
 ---
 
-## About Me
-
-- 🔭 I'm currently working as a Junior ML Engineer
-- 🌱 Learning MLOps, Deep Learning, and Cloud Computing
-- 💬 Ask me about Python, Machine Learning, and Data Science
 - 📫 Email: qadeermalik3005@gmail.com
 - 🌐 Portfolio: https://abdul-qadeerr.github.io
 - 🔗 LinkedIn: https://www.linkedin.com/in/aqadeerr
