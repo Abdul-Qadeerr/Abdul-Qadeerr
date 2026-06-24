@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=200&section=header&text=Abdul%20Qadeer&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Junior%20ML%20Engineer&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=200&section=header&text=Abdul%20Qadeer&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Instructor%20%7C%20Researcher&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=185FA5&center=true&vCenter=true&multiline=false&width=500&lines=Junior+ML+Engineer+%F0%9F%A4%96;Python+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Systems;Open+Source+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=185FA5&center=true&vCenter=true&multiline=false&width=500&lines=Junior+ML+Engineer+%F0%9F%A4%96;Lab+Instructor+%F0%9F%8E%93;ML+Researcher+%F0%9F%94%AC;Python+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Systems;Open+Source+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
