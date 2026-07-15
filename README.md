@@ -28,7 +28,7 @@
 ```python
 class AbdulQadeer:
     name       = "Abdul Qadeer"
-    role       = "Lab Instructor | Researcher"
+    role       = "Lab Instructor | Researcher | Data Scientist"
     location   = "Pakistan 🇵🇰"
     email      = "qadeermalik3005@gmail.com"
     portfolio  = "https://abdul-qadeerr.github.io"
