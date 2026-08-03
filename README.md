@@ -46,7 +46,7 @@ class AbdulQadeer:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 **Languages**
 
